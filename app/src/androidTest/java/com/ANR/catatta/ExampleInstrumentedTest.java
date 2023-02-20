@@ -1,4 +1,4 @@
-package com.arya.catatta;
+package com.ANR.catatta;
 
 import android.content.Context;
 

@@ -1,4 +1,4 @@
-package com.arya.catatta;
+package com.ANR.catatta;
 
 import androidx.appcompat.app.AppCompatActivity;
 
